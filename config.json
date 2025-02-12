@@ -1,0 +1,21 @@
+{
+    "token": "${DISCORD_TOKEN}",
+    "cfg": {
+        "intents": [
+            "MessageContent",
+            "Guilds",
+            "GuildBans",
+            "GuildEmojisAndStickers",
+            "GuildIntegrations",
+            "GuildWebhooks",
+            "GuildInvites",
+            "GuildVoiceStates",
+            "GuildMessages",
+            "GuildMessageReactions",
+            "GuildMessageTyping",
+            "DirectMessages",
+            "DirectMessageReactions",
+            "DirectMessageTyping"
+        ]
+    }
+}
